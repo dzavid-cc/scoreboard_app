@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  background-color: #1b244a;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+h3 {
+  font-family: Verdana;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 40px;
+  line-height: 35.89px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #eeeeee;
+}
+
+.result {
+  background-color: #080001;
+  width: 155px;
+  height: 120px;
+}
+
+.scoreDeco {
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 90px;
+  line-height: 126.67px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #f94f6d;
+}
+
+.buttons {
+  width: 155px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 16px;
+}
+
+.btn {
+  border: 2px solid #9aabd8;
+  background-color: #1b244a;
+  color: #9aabd8;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0%;
+  text-align: center;
+  border-radius: 5px;
+  padding: 16px;
+  width: 45px;
+  height: 45px;
+}
+
+.btnReset {
+  border: 2px solid #9aabd8;
+  background-color: #1b244a;
+  color: #9aabd8;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0%;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 55px;
+  padding: 16px;
+  width: 145px;
+  height: 85px;
+}
